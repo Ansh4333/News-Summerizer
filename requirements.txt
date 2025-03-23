@@ -1,0 +1,9 @@
+beautifulsoup4
+requests
+nltk
+gtts
+transformers
+gradio
+pandas
+numpy
+torch
